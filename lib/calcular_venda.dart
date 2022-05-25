@@ -11,7 +11,6 @@ double show() {
       valorItem, quantidadeItem, calcularDesconto(valorItem, valorDesconto));
 }
 
-//função
 double calcularValorVenda(
     double valorItem, double quantidadeItem, double valorDesconto) {
   return (valorItem - valorDesconto) * quantidadeItem;
