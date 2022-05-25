@@ -13,5 +13,3 @@ double menu_usuario() {
     return 0.0;
   }
 }
-
-
